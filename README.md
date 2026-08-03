@@ -1,4 +1,4 @@
-# Privacy-Policy
+Privacy-Policy
 No Personal Data Collection: We do not collect,store,or share any personal information.
 Local Storage: All game progress and high scores are stored locally on your device only.
 No Third-Party Tracking: We do not use any third-party analytics or tracking tools.
